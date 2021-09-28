@@ -1,5 +1,5 @@
 """
-# File          : sample_if.py
+# File          : sample2_if.py
 # Created       : 28.09.2021
 # Author        : P. O'Neill
 # Version       : v1.0.0
