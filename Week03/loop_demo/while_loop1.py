@@ -26,5 +26,3 @@ if __name__ == '__main__':
         if (uname == "joe"):
             break
         print("Finished")
-
-
